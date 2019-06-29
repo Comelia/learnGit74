@@ -1,5 +1,7 @@
 hello everyone!
 from dev
 from dev 2
-this is bug branch
+Updated upstream
+this is bug 
+Stashed changes
 fix bug
